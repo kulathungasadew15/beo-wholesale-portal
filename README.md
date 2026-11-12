@@ -34,7 +34,6 @@ The **BEO Wholesale Portal** is engineered to deliver the following frontend and
 The platform is deployed and hosted live on Vercel's production edge network. Visitors accessing the public web portal can explore:
 
 - **Primary Production URL:** [https://balangodaoil.vercel.app/](https://balangodaoil.vercel.app/)
-- **Legacy Alias URL:** [https://sscocovercel.vercel.app/](https://sscocovercel.vercel.app/)
 - **Hero & Botanical Arch Showcase:** High-impact editorial typography paired with natural edible oil visuals, botanical arch framing, and purity badges.
 - **B2B Inquiry Flow:** Direct WhatsApp and telephone contact triggers for commercial quotes and sealed lorry bulk supply.
 
