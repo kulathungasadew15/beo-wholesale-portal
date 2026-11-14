@@ -8,7 +8,7 @@ Welcome to the official repository for **Balangoda Edible Oil Enterprises (BEO)*
 
 The goal of this project is to design, prototype, and deploy a clean commercial B2B web interface for a wholesale edible oil distribution enterprise in Balangoda while practicing core frontend development and cloud deployment workflows.
 
-- **Brand:** Balangoda Edible Oil Enterprises (BEO) / S&S Oil Distributors
+- **Brand:** Balangoda Edible Oil Enterprises (BEO)
 - **Project Type:** First Web Development Project (Commercial B2B Wholesale Portal)
 - **Developer:** Sadew Kulathunga (@kulathungasadew15)
 - **Leadership:** Sumith Kulathunga (Founder) & Mr. Nalinda (Managing Director)
